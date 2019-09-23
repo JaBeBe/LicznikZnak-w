@@ -1,0 +1,12 @@
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\bin\Debug\netstandard2.0\LicznikZnaków.deps.json
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\bin\Debug\netstandard2.0\LicznikZnaków.dll
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\bin\Debug\netstandard2.0\LicznikZnaków.pdb
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\LicznikZnaków.csprojAssemblyReference.cache
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\LicznikZnaków.csproj.CoreCompileInputs.cache
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\LicznikZnaków.AssemblyInfoInputs.cache
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\LicznikZnaków.AssemblyInfo.cs
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\LicznikZnaków.dll
+D:\Kodzenie\.NET\Xamarin\LicznikZnaków\LicznikZnaków\obj\Debug\netstandard2.0\LicznikZnaków.pdb
